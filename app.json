@@ -1,16 +1,16 @@
 {
     "name": "File To Link Bot",
-    "logo": "https://telegra.ph//file/03226efb5763203163922.jpg",
+    "logo": "http://couturefilms.ca/wp-content/uploads/2017/02/4k.png",
     "description": "This bot will give permanent Download and Stream links for telegram files",
     "keywords": [
-        "stream",
+        "asupan",
         "download",
-        "telegram",
-        "FileToLink",
-        "bot",
-        "link"
+        "viral",
+        "drakor",
+        "film",
+        "indo"
     ],
-    "repository": "https://github.com/Sallat-M/FileToLink",
+    "repository": "https://github.com/MOD-ID/FileToLink",
     "env": {
         "API_ID": {
             "description": "Get it from  https://my.telegram.org"
@@ -37,7 +37,7 @@
         },
         "Bot_Channel_UserName": {
             "description": "[Optional] The UserName of any channel to force users to join it before using the bot, Make sure to make the bot admin in this channel",
-            "required": false
+            "required": true
         }
     },
     "stack": "heroku-20",
